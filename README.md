@@ -1,4 +1,3 @@
-###
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Kaique Dirceu</h1>
 
 - 👾 I'm 18 years old
@@ -6,8 +5,6 @@
 - 💻 I really enjoy programming and talking about technology
 - 🍙 I like anime and manga
 - ⚡ Never stop learning
-
-
 
 ##
 
@@ -17,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Dirceu&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-##
+ ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -26,7 +23,8 @@
   <img align="center" alt="Kaique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Kaique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/919727387145551882/919727775273861130/download20211200114750.png">
+  <img align="center" alt="Kaique-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="right" alt="Kaique-avatar" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/919727387145551882/919727775273861130/download20211200114750.png">
 </div>
   
   ##
