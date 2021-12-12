@@ -1,4 +1,13 @@
-### Oi, Eu sou o Kaique Dirceu
+###
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Kaique Dirceu</h1>
+
+- 👾 I'm 18 years old
+- 📘 Studying about frontend and backend
+- 💻 I really enjoy programming and talking about technology
+- 🍙 I like anime and manga
+- ⚡ Never stop learning
+
+
 
 ##
 
