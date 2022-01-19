@@ -3,6 +3,7 @@
 
 - 👾 I'm 18 years old
 - 📘 Studying about frontend 
+- 🚧 I like to develop web applications
 - 💻 I really enjoy programming and talking about technology
 - 🍙 I like anime and manga
 - ⚡ Never stop learning
