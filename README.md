@@ -1,10 +1,12 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Kaique Dirceu</h1>
+<img align="right" src="https://cdn.discordapp.com/attachments/919727387145551882/933427270578757684/pikachu.gif" />
+<h1 aligh="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, nice to meet you</h1>
 
 - 👾 I'm 18 years old
-- 📘 Studying about frontend and backend
+- 📘 Studying about frontend 
 - 💻 I really enjoy programming and talking about technology
 - 🍙 I like anime and manga
 - ⚡ Never stop learning
+
 
 ##
 
@@ -13,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaique-Dirceu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Dirceu&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-
+  
  ##
   
 <div style="display: inline_block"><br>
