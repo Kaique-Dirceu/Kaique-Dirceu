@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.discordapp.com/attachments/919727387145551882/933427270578757684/pikachu.gif" />
+<img src="imagens/banner.jpg"/>
 <h1 aligh="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, nice to meet you</h1>
 
 - 👾 I'm 18 years old
@@ -27,7 +27,6 @@
   <img align="center" alt="Kaique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kaique-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Kaique-avatar" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/919727387145551882/919727775273861130/download20211200114750.png">
 </div>
   
   ##
