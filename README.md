@@ -3,7 +3,7 @@
 
 - 👾 I'm 18 years old
 - 📘 Studying about frontend 
-- 🚧 I like to develop web applications
+- 🖥️ I want to work with what I like
 - 💻 I really enjoy programming and talking about technology
 - 🍙 I like anime and manga
 - ⚡ Never stop learning
@@ -33,9 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-Dirceu&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-
-  
-  ##
+##
   
  <div> 
   <a href = "mailto:contatokaiquedirceu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
