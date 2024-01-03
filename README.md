@@ -24,8 +24,10 @@
   <img align="center" alt="Kaique-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Kaique-linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
-  
+
 ##
+
+<h3>Contact:</h3>
   
  <div> 
   <a href = "mailto:contatokaiquedirceu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
