@@ -1,7 +1,7 @@
 <img src="imagens/banner.png"/>
 <h1 aligh="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, nice to meet you</h1>
 
-- 💻 Computer Science Student at IFSP-PEP
+- 💻 Computer Science
 - 🧑‍💻 Passionate Programmer
 - ⚛️ Frontend Enthusiast
 - 🎨 I enjoy UI/UX and design in general.
